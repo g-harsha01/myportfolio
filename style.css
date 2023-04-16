@@ -41,11 +41,11 @@
 
 /* services section css */
 .servicesText.card {
-    height: 280px;
+    height: 200px;
     cursor: pointer;
   }
 .servicesIcon {
-    font-size: 36px;
+    font-size: 100px;
     text-align: center;
     width: 100%;
 }
